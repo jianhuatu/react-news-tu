@@ -1,0 +1,25 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "iscroll": "^5.2.0",
+    "jquery": "^3.1.1",
+    "object-assign": "^4.1.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-iscroll": "^1.1.1",
+    "react-redux": "^4.4.5",
+    "react-swiper-tu": "^1.0.4",
+    "react-tap-event-plugin": "^1.0.0",
+    "redux": "^3.6.0"
+  }
+}
